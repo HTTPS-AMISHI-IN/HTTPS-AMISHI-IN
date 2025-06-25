@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @https-amishi-in
 - Computer Science student at KIIT University with strong skills in Python, C++, Java, C and machine learning frameworks.
-- Certified in cybersecurity (Google & Palo Alto) and active in hackathons, clubs, and tech communities.
+- Exploring a new domain- cybersecurity and actively partcipating in hackathons, clubs, and tech communities.
 - Gaining experience through hands-on implementation across diverse domains.
 
 <!---
